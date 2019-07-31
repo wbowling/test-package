@@ -1,0 +1,11 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "a<b>c</b>",
+  "main": "indexa<b>c<b>.js",
+  "scripts": {
+    "test": "echo \"Error: a<b>c</b> test specified\" && exit 1"
+  },
+  "author": "a<b>c</b>",
+  "license": "a<b>c</b>"
+}
